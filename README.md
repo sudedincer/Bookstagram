@@ -1,4 +1,4 @@
-#Bookstagram
+# Bookstagram
 
 Bookstagram is a Flutter-based book tracking application that allows users to manage and organize their books, keep track of ratings and personal notes, and view details about each book.
 
