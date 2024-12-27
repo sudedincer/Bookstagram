@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC4y8nJjehtlrRgnbPF_o3sJ6-ZMs0MWc8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>966339387709</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kitapligim</string>
+	<key>PROJECT_ID</key>
+	<string>kitapligim-9deb6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kitapligim-9deb6.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:966339387709:ios:55d82b50e7588ee805e554</string>
+</dict>
+</plist>

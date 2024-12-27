@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966339387709",
+    "project_id": "kitapligim-9deb6",
+    "storage_bucket": "kitapligim-9deb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966339387709:android:1d2c00b008b33bbd05e554",
+        "android_client_info": {
+          "package_name": "com.example.kitapligim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE7k45Wowqhj-Cx7VXGy2GpkXfRUfazVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
